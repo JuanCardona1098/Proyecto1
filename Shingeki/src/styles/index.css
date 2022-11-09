@@ -1,0 +1,22 @@
+
+.mainContainer div{
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.mainContainer img{
+    width: 800px;
+    height: max-content;
+    align-self: auto;
+}
+
+.submainContainer div{
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.submainContainer img{
+    width: 1000px;
+    height: max-content;
+    align-self: auto;
+}
